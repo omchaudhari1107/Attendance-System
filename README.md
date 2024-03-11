@@ -14,4 +14,5 @@ Attendance accesed by faculty in Excel Sheet file <br>
 ![Screenshot 2024-03-11 083118](https://github.com/omchaudhari1107/Attendance-System/assets/90174038/6d5bc2f6-9310-4b23-9189-62d318834280)
 
 - Have face recognition feature.
-- Location of Userfor attendance
+- Location of User for attendance
+- For more detail contact me
